@@ -1,5 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "PUPAK"]
+	path = PUPAK
+	url = https://github.com/cran/PUPAK
+[submodule "PUPMCR"]
+	path = PUPMCR
+	url = https://github.com/cran/PUPMCR
+[submodule "PUPMSI"]
+	path = PUPMSI
+	url = https://github.com/cran/PUPMSI
+[submodule "extraterrestrial"]
+	path = extraterrestrial
+	url = https://github.com/cran/extraterrestrial
